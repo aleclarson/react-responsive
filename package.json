@@ -2,11 +2,7 @@
   "name": "@alloc/react-responsive",
   "description": "Vite-compatible fork of react-responsive",
   "version": "8.1.0",
-  "homepage": "http://github.com/contra/react-responsive",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/contra/react-responsive.git"
-  },
+  "repository": "aleclarson/react-responsive",
   "author": "Contra <yo@contra.io> (http://contra.io)",
   "maintainers": [
     "aleclarson"
