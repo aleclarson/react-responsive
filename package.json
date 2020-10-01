@@ -28,6 +28,7 @@
     "component"
   ],
   "dependencies": {
+    "@types/react-responsive": "^8.0.2",
     "hyphenate-style-name": "^1.0.0",
     "matchmediaquery": "^0.3.0",
     "prop-types": "^15.6.1",
